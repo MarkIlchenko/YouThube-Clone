@@ -1,7 +1,7 @@
 {
   "name": "youthubproject",
   "version": "0.1.0",
-  "homepage": "https://MarkIlchenko.github.io/",
+  "homepage": "https://MarkIlchenko.github.io/YouThube-Clone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
