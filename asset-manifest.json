@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/YouThube-Clone/static/css/main.7064deb2.css",
-    "main.js": "/YouThube-Clone/static/js/main.cf2b1b48.js",
+    "main.js": "/YouThube-Clone/static/js/main.6044ab45.js",
     "index.html": "/YouThube-Clone/index.html",
     "main.7064deb2.css.map": "/YouThube-Clone/static/css/main.7064deb2.css.map",
-    "main.cf2b1b48.js.map": "/YouThube-Clone/static/js/main.cf2b1b48.js.map"
+    "main.6044ab45.js.map": "/YouThube-Clone/static/js/main.6044ab45.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.cf2b1b48.js"
+    "static/js/main.6044ab45.js"
   ]
 }
